@@ -19,13 +19,11 @@ or
 # install dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+# serve with hot reload at localhost:8081
+$ yarn start
 ```
 - ### Test
 ```bash
 # Running in
 http://localhost:8081/get_gallons?area=854.6
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
